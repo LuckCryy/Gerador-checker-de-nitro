@@ -1,0 +1,1 @@
+# Gerador-checker-de-nitro
